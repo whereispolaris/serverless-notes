@@ -1,0 +1,6 @@
+.sst
+.build
+node_modules
+.env
+.idea
+.vscode
